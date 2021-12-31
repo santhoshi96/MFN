@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51355" started-at="2021-10-26T13:04:38 IST" finished-at="2021-10-26T13:05:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51355" started-at="2021-10-26T13:04:38 IST" finished-at="2021-10-26T13:05:29 IST">
+      <class name="pages.Offerlisting">
+        <test-method status="PASS" signature="listingOffer(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pages.Offerlisting@68ceda24]" name="listingOffer" duration-ms="50223" started-at="2021-10-26T13:04:39 IST" data-provider="TestData" finished-at="2021-10-26T13:05:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Toys]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sku101]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listingOffer -->
+      </class> <!-- pages.Offerlisting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
